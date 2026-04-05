@@ -1,0 +1,16 @@
+{
+  "name": "カウンターPWAサンプル",
+  "short_name": "カウンターPWA",
+  "start_url": "/pwa-counter/",
+  "scope": "/pwa-counter/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
